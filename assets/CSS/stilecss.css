@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 255, 0);
+    margin-bottom: 40px;
+    margin: 0;
+}
+
+.imagenes{
+    width: 80%;
+    height: auto;
+}
+
+html {
+    min-height: 100%;
+    position: relative;
+  }
+  footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 90px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius:10px;
+  }
+header{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius:10px;
+}
